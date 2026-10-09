@@ -1,5 +1,8 @@
 # Python Quiz Game
+![Static Badge](https://img.shields.io/badge/python-3%2012-blue)
+ 
 A simple python game built with python
+
 ## Table of contents
 
   - [Features](#features)
@@ -41,12 +44,20 @@ python-quiz-game/
 ```
 
 ### File description
-- `main.py` - Main file used to run quiz game
-- `question.py` - Stores questions and answers
-- `requirements.txt` - lists the python packages needed for the project
-- `.env.example` - Shows the environment variables needed by the projects
-- `.gitignore` - Tells git which files and folders should not be tracked 
-- `README.md` - contains the project documantion
+| file | description |
+| :--- | :--- |
+| `main.py` | main file used to run quiz game |
+| `question.py` | stores questions and answers |
+| `requirements.txt` | lists the python packages needed for the project |
+| `.env.example` | shows the envoirment variables needed by the project |
+| `.gitignore` | tells git which files and folders shold not be tracked |
+| `README.md` | contains the project documentation |
+| `pictures/` | stores project sreenshots |
+| `pictures/` | stores project sreenshots |
+| `pictures/` | stores project sreenshots |
+| `pictures/1.png` | screenshot of the game start |
+| `pictures/2.png` | screenshot of the quiz section |
+| `pictures/3.png` | screenshot of the quiz section |
 
 ## Requirements
 Before running, make sure you have:
