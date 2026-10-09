@@ -1,7 +1,7 @@
 # Python Quiz Game
 A simple python game built with python
 ## Table of contents
-  - [Table of contents](#table-of-contents)
+
   - [Features](#features)
   - [Project Structure](#project-structure)
   - [Requirements](#requirements)
@@ -9,6 +9,7 @@ A simple python game built with python
   - [Environment Setup](#environment-setup)
   - [Usage](#usage)
   - [Examole Output](#examole-output)
+  - [Screenshot](#screenshot)
   - [Roadmap](#roadmap)
   - [Contributing](#contributing)
   - [License](#license)
@@ -111,6 +112,19 @@ correct
 your score is:  3 out of 3
 excellent job alex
 ```
+
+## Screenshot
+
+### Start Game
+![start game](pictures/1.png)
+
+### Quiz
+![quiz](pictures/2.png)
+
+### Final Score
+![start game](pictures/3.png)
+
+
 
 ## Roadmap
 - [x] add multiple quiz questions
