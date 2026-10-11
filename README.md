@@ -1,4 +1,4 @@
-# Python School Management System
+# python School Management System
 
 ![Static Badge](https://img.shields.io/badge/python-3-blue)
 
